@@ -1,0 +1,11 @@
+
+@media (min-width:682px) and (max-width:992px){
+    
+  .fit {
+      display: flex;
+      flex-wrap: wrap ;
+      flex-direction: column;
+      flex: 50%;
+}
+}
+
